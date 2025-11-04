@@ -1,5 +1,6 @@
 let button, quebraLinha, jogada = 1, vencedor = 0
 let tabuleiro = new Array(3)
+//
 for(let i = 0; i < tabuleiro.length; i++){
     tabuleiro[i] = new Array(3)
 }
